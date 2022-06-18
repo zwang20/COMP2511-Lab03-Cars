@@ -1,5 +1,7 @@
 # COMP2511-Lab03-Cars
 
+[![Java CI with Gradle](https://github.com/zwang20/COMP2511-Lab03-Cars/actions/workflows/gradle.yml/badge.svg)](https://github.com/zwang20/COMP2511-Lab03-Cars/actions/workflows/gradle.yml)
+
 In this problem, we are going to continue the UML Diagram exercise from the tutorial. Your tutor will provide a pdf containing the diagram you worked on together.
 
 > ℹ️ You will need to make a **Private** (set to Course Staff can view only) Blog Post on WebCMS for this activity. Put your answers to the questions inside it.
